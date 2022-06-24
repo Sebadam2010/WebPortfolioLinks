@@ -18,4 +18,4 @@
 #### HTML | CSS 
 
 - Deployed Site: https://sebadam2010.github.io/Website_HTML_CSS_Capstone/
-- Github: https://sebadam2010.github.io/Website_HTML_CSS_Capstone/
+- Github: https://github.com/Sebadam2010/Website_HTML_CSS_Capstone
